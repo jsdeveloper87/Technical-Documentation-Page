@@ -1,0 +1,131 @@
+body {
+  font-family: arial;  
+}
+
+#main-doc {
+  height: 1000px;
+  width: 1037px;
+  margin-left: 300px;
+  margin-top: -8px;
+}
+
+.main-section {
+  height: 590px;
+  width: 1037px;
+}
+
+.doc-header {
+  font-size: 30px;
+  font-family: arial;
+  margin-left: 35px;
+  margin-top: 35px;
+}
+
+p {
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+code {
+  margin-left: 50px;
+}
+
+ul {
+  margin-left: 50px;
+}
+
+li {
+  padding: 10px;
+}
+
+#introduction {
+  height: 360px;
+}
+
+#what_you_should_already_know {
+  height: 220px;
+}
+
+#javascript_and_java {
+  height: 315px;
+}
+
+#hello_world {
+  height: 170px;
+}
+
+#variables {
+  height: 240px;
+}
+
+#declaring_variables {
+  height: 410px;
+}
+
+#variable_scope {
+  height: 310px;
+}
+
+#global_variables {
+  height: 190px;
+}
+
+#constants {
+  height: 400px;
+}
+
+#data_types {
+  height: 510px;
+}
+
+#while_statement {
+  height: 560px;
+}
+
+#function_declarations {
+  height: 440px;
+}
+
+#reference {
+  height: 250px;
+}
+
+#js-documentation {
+  border: 2px solid black;
+  width: 306px;
+  margin-left: -8px;
+  margin-top: -28px;
+  height: 35px;
+  font-size: 30px;
+  padding-top: 15px;
+}
+
+.nav-list {
+  margin-top: -2px;
+}
+
+.nav-list-item {
+  height: 16px;
+  width: 287.5px;
+  border: 1px solid black;
+  margin-left: -98px;
+}
+
+.nav-link {
+  text-decoration: none;
+  color: black;
+}
+
+#navbar {
+  position: fixed;
+}
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+}
+
+#fix {
+  margin-left: 50px;
+}
